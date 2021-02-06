@@ -1,3 +1,1 @@
-In case you are having issues rendering the report, you can use this link
-
-https://nbviewer.jupyter.org/github/alexikerd/Cartpole/blob/main/Thinking%20Outside%20the%20Bot%20%231.%20Reinforcement%20Learning%20Basics.ipynb
+Welcome to my repository of reports.  I like to play around with AI in my free time, and I've decided to start recording what I discover into comprehensive reports.  That way I keep myself accountable in making sure I do a thorough job exploring the topic as well as create something worth sharing.
